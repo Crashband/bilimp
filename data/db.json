@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "Kimden": [
+        {
+          "name": "Huseyin ",
+          "picture": "https://randomuser.me/api/portraits/men/43.jpg"
+        }
+      ],
+      "Açıklama": "KFF01 Aydınlatma adlı doküman yayınlanmıştır. Dokümanlar üzerinden ilgili dokümanı okumalısınız.",
+      "İşlem": "Bekliyor",
+      "GörevTarihi": "10.12.2019",
+      "BitişTarihi": "",
+      "Görev No": "3639"
+    },
+    {
+      "Kimden": [
+        {
+          "name": "eren",
+          "picture": "https://randomuser.me/api/portraits/men/43.jpg"
+        }
+      ],
+      "Açıklama": "Something Else ",
+      "İşlem": "Bekliyor",
+      "Görev Tarihi": "10.12.2019",
+      "Bitiş Tarihi": "",
+      "Görev No": "3639"
+    },
+    {
+      "Kimden": [
+        {
+          "name": "arda",
+          "picture": "https://randomuser.me/api/portraits/men/43.jpg"
+        }
+      ],
+      "Açıklama": "KFF01 Aydınlatma adlı doküman yayınlanmıştır. Dokümanlar üzerinden ilgili dokümanı okumalısınız.",
+      "İşlem": "Bekliyor",
+      "Görev Tarihi": "10.12.2019",
+      "Bitiş Tarihi": "",
+      "Görev No": "3639"
+    },
+    {
+      "Kimden": [
+        {
+          "name": "arda",
+          "picture": "https://randomuser.me/api/portraits/men/43.jpg"
+        }
+      ],
+      "Açıklama": "KFF01 Aydınlatma adlı doküman yayınlanmıştır. Dokümanlar üzerinden ilgili dokümanı okumalısınız.",
+      "İşlem": "Bekliyor",
+      "Görev Tarihi": "10.12.2019",
+      "Bitiş Tarihi": "",
+      "Görev No": "3639"
+    },
+    {
+      "Kimden": [
+        {
+          "name": "arda",
+          "picture": "https://randomuser.me/api/portraits/men/43.jpg"
+        }
+      ],
+      "Açıklama": "KFF01 Aydınlatma adlı doküman yayınlanmıştır. Dokümanlar üzerinden ilgili dokümanı okumalısınız.",
+      "İşlem": "Bekliyor",
+      "Görev Tarihi": "10.12.2019",
+      "Bitiş Tarihi": "",
+      "Görev No": "2500"
+    },
+    {
+      "Kimden": [
+        {
+          "name": "arda",
+          "picture": "https://randomuser.me/api/portraits/men/43.jpg"
+        }
+      ],
+      "Açıklama": "KFF01 Aydınlatma adlı doküman yayınlanmıştır. Dokümanlar üzerinden ilgili dokümanı okumalısınız.",
+      "İşlem": "Bekliyor",
+      "Görev Tarihi": "10.12.2019",
+      "Bitiş Tarihi": "",
+      "Görev No": "2500"
+    }
+  ],
+  "input": [
+    {
+      "name": "arda",
+      "Açıklama": "KFF01 Aydınlatma adlı doküman yayınlanmıştır. Dokümanlar üzerinden ilgili dokümanı okumalısınız.",
+      "Bilgi": "Bekliyor",
+      "startDate": "10.12.2019",
+      "endDate": "",
+      "time": "12"
+    }
+  ]
+}
